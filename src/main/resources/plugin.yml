@@ -1,0 +1,10 @@
+name: SonicShriekBow
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+description: A custom bow that shoots sonic shrieks
+api-version: "1.21"
+commands:
+  sonicshriekbow:
+    description: Gives the player a custom bow that shoots sonic shrieks.
+    usage: /sonicshriekbow
